@@ -14,7 +14,7 @@ Prerequisites: Gradle and Java 8 or above
    - Run "./gradlew build" or update the project's dependencies using the respective IDE's gradle perspective.
    - Run EventService application by right clicking on the file and select "Run Application"
 
-#Usage
+# Usage
 
 1.  On a rest client (such as postman), add an event object to the following url: "http://localhost:8102/events"
 ```{"id": 1, "name": "Event1", "description": "Description of event1"}```
