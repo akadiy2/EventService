@@ -1,7 +1,7 @@
 # EventService
 Service to handle event operations
 
-#Installation
+# Installation
 
 Prerequisites: Gradle and Java 8 or above
 
